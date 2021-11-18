@@ -156,4 +156,7 @@
     .special-image:after {
         display: none;
     }
+    .add-to .membership-btn {
+        width: 100%;
+    }
 }
