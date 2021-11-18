@@ -153,4 +153,7 @@
     .banner-pluses__bottom {
         bottom: -80px;
     }
+    .special-image:after {
+        display: none;
+    }
 }
